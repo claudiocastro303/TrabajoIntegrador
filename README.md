@@ -41,11 +41,11 @@ PASSWORD: [tu_password_mysql]
 ````
 ## Compilación y Ejecución
 
-### Compilar el proyecto:
+### Build:
 ```bash
 javac -cp .:mysql-connector-java-8.0.33.jar src/Main/Main.java
 ````
-### Ejecutar el proyecto: 
+### Ejecutar: 
 ````bash
 java -cp .:mysql-connector-java-8.0.33.jar Main.Main
 ````
