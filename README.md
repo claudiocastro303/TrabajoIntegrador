@@ -58,4 +58,4 @@ java -cp .:mysql-connector-java-8.0.33.jar Main.Main
 6. **Listar Seguros** - Ver todas las pólizas
 
 ## Video Demostración
-[Ver video en Google Drive]([https://drive.google.com/file/d/ID_DEL_VIDEO/view](https://drive.google.com/drive/folders/1DW397jAwhqHtrsQOCSIYJrDk1XcsZJA4))
+[Ver video en Google Drive]((https://drive.google.com/drive/folders/1DW397jAwhqHtrsQOCSIYJrDk1XcsZJA4))
