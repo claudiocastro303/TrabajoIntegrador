@@ -59,3 +59,5 @@ java -cp .:mysql-connector-java-8.0.33.jar Main.Main
 
 ## Video
 [Ver video en Google Drive](https://drive.google.com/drive/folders/1DW397jAwhqHtrsQOCSIYJrDk1XcsZJA4)
+
+## Compilar
