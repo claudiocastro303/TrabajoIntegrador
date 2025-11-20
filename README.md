@@ -29,9 +29,8 @@ SOURCE database/sample_data.sql
 
 ```
 
-### Configuración y Flujo de Uso
 
-### Credenciales de Prueba
+## Credenciales de Prueba
 Editar en `src/Config/DatabaseConnection.java`:
 ```java
 URL: jdbc:mysql://localhost:3306/vehiculo_seguro
