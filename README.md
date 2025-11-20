@@ -57,5 +57,5 @@ java -cp .:mysql-connector-java-8.0.33.jar Main.Main
 5. **Eliminar** - Eliminación lógica (no física)
 6. **Listar Seguros** - Ver todas las pólizas
 
-## Video Demostración
-[Ver video en Google Drive]((https://drive.google.com/drive/folders/1DW397jAwhqHtrsQOCSIYJrDk1XcsZJA4))
+## Video
+[Ver video en Google Drive](https://drive.google.com/drive/folders/1DW397jAwhqHtrsQOCSIYJrDk1XcsZJA4)
