@@ -18,7 +18,7 @@ Sistema CRUD completo para gestión de vehículos y sus seguros asociados. Desar
 
 ## Configuración de Base de Datos
 
-### 1. Crear base de datos y tablas
+### Crear base de datos y tablas
 Ejecutar en MySQL Workbench las líneas de comandos:
 ```sql
 -- Crear estructura
@@ -29,7 +29,7 @@ SOURCE database/sample_data.sql
 
 ```
 
-###   Configuración y Flujo de Uso
+### Configuración y Flujo de Uso
 
 ### Credenciales de Prueba
 Editar en `src/Config/DatabaseConnection.java`:
@@ -41,7 +41,7 @@ PASSWORD: [tu_password_mysql]
 ````
 ## Compilación y Ejecución
 
-###  Compilar :
+###  (Compilar) :
 ```bash
 javac -cp .:mysql-connector-java-8.0.33.jar src/Main/Main.java
 ````
