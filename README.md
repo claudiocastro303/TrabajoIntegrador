@@ -49,7 +49,7 @@ javac -cp .:mysql-connector-java-8.0.33.jar src/Main/Main.java
 ````bash
 java -cp .:mysql-connector-java-8.0.33.jar Main.Main
 ````
-### Flujo de Trabajo
+## Flujo de Trabajo
 1. **Menú Principal** - 5 opciones disponibles
 2. **Crear Vehículo** - Con o sin seguro, opcional  
 3. **Listar Vehículos** - Todos o filtrados por dominio/marca
